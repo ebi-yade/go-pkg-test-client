@@ -1,0 +1,4 @@
+github.com/ebi-yade/go-pkg-test/target v0.0.0-20210510213021-93611fa12a4b h1:LIGe9eLiILCyhHcJqx00mgslLosBUqi5OTi8KQKaL4w=
+github.com/ebi-yade/go-pkg-test/target v0.0.0-20210510213021-93611fa12a4b/go.mod h1:yEB8UvQwmob51P2qg2dRgn9nC5upy1MJ+M/CEaUH7sQ=
+github.com/jakehl/goid v1.1.0 h1:c08GO8z16wWJtfQhyiD8BQRFkpf1oDxaPmA+uYAG+50=
+github.com/jakehl/goid v1.1.0/go.mod h1:V6bQh+tr2Oay5WHL0jmTTJWrABYIO+cs4/P6e1prV1o=
